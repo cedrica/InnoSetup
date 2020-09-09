@@ -16,3 +16,6 @@
     -> Create src/main/deploy/package/windows/ folder
     -> Add icon with name ${project.build.finalName}.ico
     -> Run mvn jfx:build-native
+
+### Just generate  an exe
+    mvn jfx:native
