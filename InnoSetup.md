@@ -1,4 +1,6 @@
-# InnoSetup is use to generate exe using UI configuration
+# InnoSetup is use to generate exe installer using UI configuration
+      That mean after generate the exe, if the user click on it it will first install the programm on his machine plus a Desktop link to start it.
+      But ZenJava donot generate installer but .jar so that if you click on it it directly start the programm
 
 ### You can add many things like
       -> icon
