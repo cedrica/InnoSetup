@@ -1,4 +1,5 @@
-# ZenJava generiert eine exe
+# ZenJava generiert eine exe (Not installer => if you click on it it directly start the programm)
+    to see how to create an installer take a look in InnoSetup
 ### configure plugin
     <plugin>
            <groupId>com.zenjava</groupId>
